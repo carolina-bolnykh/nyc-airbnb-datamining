@@ -7,13 +7,11 @@
 
 Our main question then becomes how do we apply these findings to the New York City AirBnb market in a meaningful way? We want to focus on 3 to 4 major areas, including 
 
- • what we learn about different hosts and areas
+ • what we learn about different hosts, areas, locations, prices, and reviews
  
- • We also want to explore what we can learn from predictions (locations, prices, reviews)
+ • we can also analyze which hosts are the busiest and why, which will allow us to provide insights that might reveal secrets about the New York Airbnb market
  
- • We can also analyze which hosts are the busiest and why, which will allow us to provide insights that might reveal secrets about the New York Airbnb market
- 
- • We could analyze if there are any noticeable differences in traffic among different areas and what the reason could be for these differences, and how that impacts AirBnb bookings in New York.
+ • we could analyze if there are any noticeable differences in traffic among different areas and what the reason could be for these differences, and how that impacts AirBnb bookings in New York.
 
 
 💡Our findings will be valuable to hosts and guests and contribute to the broader understanding of the dynamics of short-term rental platforms such as AirBnb. 
